@@ -10,3 +10,17 @@
 | [Can Climate Models Predict Climate Change?](https://www.youtube.com/watch?v=qZN2jt2cCU4) | PragerU · **5:14** | At **1:14–1:22**, categorically claims climate models have not worked. | A retrospective evaluation found that historical models generally predicted subsequent warming skillfully, especially after accounting for differences between assumed and actual climate forcings. ([www.giss.nasa.gov][5]) |
 | [Does God Exist? 4 New Arguments](https://www.youtube.com/watch?v=gIorXcloIac) | PragerU · **5:40** | At **4:00**, claims even the lowest life forms have brains and central nervous systems. | Sponges are animals that have neither brains nor nervous systems, providing a direct counterexample to this biological claim. ([qrius.si.edu][6]) |
 | [Evolution: Bacteria to Beethoven](https://www.youtube.com/watch?v=DOIbcOoaxuY) | PragerU · **5:52** | Presents **1 in 10⁷⁷** as the general likelihood of obtaining a functional protein, misleadingly generalizing an estimate concerning particular enzyme functions. | The cited study concerns specific enzyme functions. Other experiments selected new ATP-binding proteins from a library of **6 × 10¹²** random sequences, contradicting that figure’s application to functional proteins generally. ([pubmed.ncbi.nlm.nih.gov][7]) |
+
+[1]: https://www.weather.gov/roc/WindFarms?utm_source=chatgpt.com "WIND FARM INTERACTION WITH NEXRAD RADAR"
+
+[2]: https://pmc.ncbi.nlm.nih.gov/articles/PMC4413262/?utm_source=chatgpt.com "The advent of animals: The view from the Ediacaran"
+
+[3]: https://www.nature.com/articles/s41467-022-34623-9?utm_source=chatgpt.com "Southern Ocean biogenic blooms freezing-in Oligocene colder climates"
+
+[4]: https://www.nature.com/articles/nature14093?utm_source=chatgpt.com "Probabilistic reanalysis of twentieth-century sea-level rise"
+
+[5]: https://www.giss.nasa.gov/pubs/abs/ha08910q.html?utm_source=chatgpt.com "NASA GISS: Hausfather et al. 2020: Evaluating the performance of past climate model projections"
+
+[6]: https://qrius.si.edu/taxonomy/term/12167?utm_source=chatgpt.com "About Glass Sponges (Class Hexatinellida): Senses"
+
+[7]: https://pubmed.ncbi.nlm.nih.gov/15321723/?utm_source=chatgpt.com "Estimating the prevalence of protein sequences adopting functional enzyme folds."
