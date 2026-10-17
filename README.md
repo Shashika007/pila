@@ -12,3 +12,7 @@ A Chrome extension that captures YouTube subtitles in real time, even when close
 ## Technical Considerations
 
 Caption extraction relies on YouTube's undocumented interfaces and may not work for every video. Subtitle processing must handle playback synchronization, sentence assembly, and deduplication.
+
+## Example videos
+
+See [example_videos](./example_videos/README.md)
